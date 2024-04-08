@@ -1,0 +1,50 @@
+[
+  {
+    "format": {
+      "prefix": "R$ ",
+      "suffix": "",
+      "includeThousandsSeparator": true,
+      "thousandsSeparatorSymbol": ".",
+      "decimalSymbol": ","
+    },
+    "name": "Real Brasileiro",
+    "code": "BRL",
+    "icon": "brasil.png"
+  },
+  {
+    "format": {
+      "prefix": "€ ",
+      "suffix": "",
+      "includeThousandsSeparator": true,
+      "thousandsSeparatorSymbol": ",",
+      "decimalSymbol": "."
+    },
+    "name": "Euro",
+    "code": "EUR",
+    "icon": "uniao-europeia.png"
+  },
+  {
+    "format": {
+      "prefix": "$ ",
+      "suffix": "",
+      "includeThousandsSeparator": true,
+      "thousandsSeparatorSymbol": ",",
+      "decimalSymbol": "."
+    },
+    "name": "Dólar Americano",
+    "code": "USD",
+    "icon": "eua.png"   
+  },
+  {
+    "format": {
+      "prefix": "£ ",
+      "suffix": "",
+      "includeThousandsSeparator": true,
+      "thousandsSeparatorSymbol": ",",
+      "decimalSymbol": "."
+    },
+    "name": "Líbra Esterlina",
+    "code": "GBP",
+    "icon": "reino-unido.png"   
+  }
+]
